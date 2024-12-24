@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="100"/> -->
   <div id="badges">
   <a href="https://www.linkedin.com/in/zhaoyi-yan-priscilla/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,17 +63,13 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscillayouziqian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
+<!---
 
 ### :writing_hand: Check out these projects :
 
 **Job Application Tracker:** https://github.com/priscillayouziqian/job-application-tracker
+--->
 
-**NASA API Project:** https://zy-nasa-1022.web.app/
-
-**Member Management Panel:** https://github.com/priscillayouziqian/Final-project-memberServicePanelApp
-
-**Birthday Deals Application:** https://github.com/priscillayouziqian/Foundation-Capstone-Project
 
 
 <!---
