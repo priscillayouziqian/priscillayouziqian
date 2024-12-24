@@ -27,7 +27,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 👋 Hi, I’m Zhaoyi Yan, or called me Priscilla.
 - 👀 I’m interested in creating a website from zero, and make it become a responsible website.
 - 🌱 I started from self-taught to bootcamp.
-- :telescope: I'am currently enrolled in OMSCS - Georgia Tech Online Master of Science in Computer Science.
+- :telescope: I'm currently a graduate student in Computer Science.
 - 💞️ I’m looking to collaborate on more future projects.
 
 ---
